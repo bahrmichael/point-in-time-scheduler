@@ -6,7 +6,7 @@ The source code is not open source.
 
 ## Release Notes
 
-### Next
+### 11.01.2022
 
 You can now view message logs. This is helpful to understand why a message has not been delivered to your endpoint.
 
