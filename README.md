@@ -12,4 +12,4 @@ The source code is not open source.
 
 ### 06.01.2022
 
-Launch of the public preview: https://bahr.dev/2022/01/06/point-in-time-scheduler/
+[Launch of the public preview](https://bahr.dev/2022/01/06/point-in-time-scheduler/)
