@@ -8,7 +8,11 @@ The source code is not open source.
 
 ### 10.01.2022
 
-[New quickstart experience](https://twitter.com/bahrdev/status/1480504565543931913)
+Rocket New quick start experience for the Point In Time Scheduler.
+
+The quick start helps you to schedule your first message. Thanks to http://webhook.site you don't even need to set up your own endpoint.
+
+Give it a try at https://app.point-in-time-scheduler.com
 
 ### 06.01.2022
 
