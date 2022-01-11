@@ -6,6 +6,12 @@ The source code is not open source.
 
 ## Release Notes
 
+### Next
+
+You can now view message logs. This is helpful to understand why a message has not been delivered to your endpoint.
+
+To view logs of a message, go to your application, then to messages, and then open a message by clicking on its ID.
+
 ### 10.01.2022
 
 New quick start experience for the Point In Time Scheduler.
@@ -20,5 +26,4 @@ Give it a try at https://app.point-in-time-scheduler.com
 
 ## Upcoming changes
 
-- Message Logs
 - Callback message payloads become more flexible
