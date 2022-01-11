@@ -8,7 +8,7 @@ The source code is not open source.
 
 ### 10.01.2022
 
-Rocket New quick start experience for the Point In Time Scheduler.
+New quick start experience for the Point In Time Scheduler.
 
 The quick start helps you to schedule your first message. Thanks to http://webhook.site you don't even need to set up your own endpoint.
 
