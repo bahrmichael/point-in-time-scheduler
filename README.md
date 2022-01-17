@@ -4,6 +4,10 @@ This repository holds public resources for the point in time scheduler. https://
 
 The source code is not open source.
 
+## Get Notified
+
+You can get notifications about new release notes by clicking on the Watch button in the top right. If you'd rather get a mail into your inbox, I suggest you check out the [GitHub File Watcher](https://app.github-file-watcher.com/).
+
 ## Release Notes
 
 ### 17.01.2022
