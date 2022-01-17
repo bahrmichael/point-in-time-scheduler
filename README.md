@@ -6,6 +6,16 @@ The source code is not open source.
 
 ## Release Notes
 
+### 17.01.2022
+
+Based on customer feedback, the scheduler can now return messages without wrapping them in a payload field. You can now choose the mode when creating an application.
+
+---
+
+![Mode Choice Preview](https://github.com/bahrmichael/point-in-time-scheduler/blob/main/mode-choice-preview.png)
+
+---
+
 ### 11.01.2022
 
 You can now view message logs. This is helpful to understand why a message has not been delivered to your endpoint.
