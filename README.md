@@ -37,7 +37,3 @@ Give it a try at https://app.point-in-time-scheduler.com
 ### 06.01.2022
 
 [Launch of the public preview](https://bahr.dev/2022/01/06/point-in-time-scheduler/)
-
-## Upcoming changes
-
-- Callback message payloads become more flexible
