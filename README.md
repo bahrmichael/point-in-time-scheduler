@@ -10,6 +10,27 @@ You can get notifications about new release notes by clicking on the Watch butto
 
 ## Release Notes
 
+### 25.01.2022
+
+The scheduler now supports SQS as a delivery target. With SQS the scheduler achieves higher time precision using the [`DelaySeconds` attribute](https://docs.aws.amazon.com/AWSSimpleQueueService/latest/SQSDeveloperGuide/sqs-delay-queues.html). Messages will become visible at the time you specified when scheduling the message.
+
+When you register an application, you can now choose between REST and Amazon SQS integration. You need an SQS queue which has the following resource policy.
+
+```
+PolicyDocument: {
+  Statement: [{
+    Action: ["sqs:SendMessage"],
+    Effect: ["Allow"],
+    Resource: ["<your-queue-arn>"],
+    Principal: {
+      AWS: ["710154449298"]
+    }
+  ]}
+}
+```
+
+This resource policy allows the scheduler (AccountId 710154449298) to send messages to your queue.
+
 ### 17.01.2022
 
 Based on customer feedback, the scheduler can now return messages without wrapping them in a payload field. You can now choose the mode when creating an application.
