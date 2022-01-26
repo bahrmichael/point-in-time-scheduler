@@ -8,6 +8,11 @@ The source code is not open source.
 
 You can get notifications about new release notes by clicking on the Watch button in the top right. If you'd rather get a mail into your inbox, I suggest you check out the [GitHub File Watcher](https://app.github-file-watcher.com/).
 
+## Upcoming
+
+- Documentation Pages
+- Control and Data Plane APIs
+
 ## Release Notes
 
 ### 25.01.2022
