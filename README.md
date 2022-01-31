@@ -4,9 +4,9 @@ This repository holds public resources for the point in time scheduler. https://
 
 The source code is not open source.
 
-## Get Notified
+## Documentation
 
-You can get notifications about new release notes by clicking on the Watch button in the top right. If you'd rather get a mail into your inbox, I suggest you check out the [GitHub File Watcher](https://app.github-file-watcher.com/).
+[Go to the documentation](https://github.com/bahrmichael/point-in-time-scheduler/tree/main/docs).
 
 ## Upcoming
 
@@ -14,6 +14,8 @@ You can get notifications about new release notes by clicking on the Watch butto
 - Control and Data Plane APIs
 
 ## Release Notes
+
+You can get notifications about new release notes by clicking on the Watch button in the top right. If you'd rather get a mail into your inbox, I suggest you check out the [GitHub File Watcher](https://app.github-file-watcher.com/).
 
 ### 25.01.2022
 
