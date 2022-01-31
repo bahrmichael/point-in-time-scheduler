@@ -10,7 +10,7 @@ Below are the topics that this documentation covers. If there's no link yet, the
 
 * High Level Overview
 * Core Concepts
-  * Authorization
+  * [Authorization](https://github.com/bahrmichael/point-in-time-scheduler/tree/main/docs/concepts/authorization)
   * Scheduling
   * Receiving
 * Getting Started
