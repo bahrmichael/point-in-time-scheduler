@@ -4,11 +4,15 @@ Document state: DRAFT
 
 All APIs are secured with API keys. For the scheduler there are two types of API keys: Data keys and control keys.
 
+---
+
+**Warning**: API keys take about 60 seconds to fully initialize. If you get a `403` error, please wait for 30 seconds and then try again.
+
+---
+
 Data keys are required for all message related operations, such as `Schedule Message`, `List Messages`, and `Redrive Message`.
 
 Control keys are required for all other operations, such as `Create Application`, `List Application`, and `Deactivate Data Key`.
-
-**Warning**: Authorization keys take about 60 seconds to fully initialize. If you get a `403` error, please wait for 30 seconds and then try again.
 
 ## Data Key
 
