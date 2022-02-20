@@ -32,7 +32,7 @@ headers: {
 
 ## Control Key
 
-You can generate a control key by going the [https://app.point-in-time-scheduler.com/access-tokens](https://app.point-in-time-scheduler.com/access-tokens), and click on "Generate new Access Token".
+You can generate a control key by going the [https://app.point-in-time-scheduler.com/control-keys](https://app.point-in-time-scheduler.com/control-keys), and click on "Generate new Access Token".
 
 To use the control key in operations, pass it as the `Authorization` header with a `Token` prefix. For example if your control key is `12345`, then pass it the following way:
 
