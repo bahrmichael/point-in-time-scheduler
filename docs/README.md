@@ -1,5 +1,7 @@
 # Documentation for Point In Time Scheduler
 
+> Update: In November 2022 AWS has released the EventBridge Scheduler. It does what I expect from a serverless scheduler, and has a free tier of 14 million invocations per month. Therefore, I'm deprecating this project.
+
 This is the documenation for the Point In Time Scheduler, a serverless primitive for ad hoc scheduling.
 
 If you don't know about the Point In Time Scheduler yet, [please read the announcement blog post](https://bahr.dev/2022/01/06/point-in-time-scheduler/).
@@ -17,7 +19,3 @@ Below are the topics that this documentation covers. If there's no link yet, the
   * REST integration
   * SQS integration
 * API Reference
-
-## Feedback
-
-[You can send feedback with video, voice, and or text](https://zipmessage.com/gwcyvrb1).
