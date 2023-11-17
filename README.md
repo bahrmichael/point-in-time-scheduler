@@ -1,8 +1,8 @@
 # point-in-time-scheduler
 
-This repository holds public resources for the point in time scheduler. https://point-in-time-scheduler.com
+> Update: In November 2022 AWS has released the EventBridge Scheduler. It does what I expect from a serverless scheduler, and has a free tier of 14 million invocations per month. Therefore, I'm deprecating this project.
 
-The source code is not open source.
+This repository holds public resources for the point in time scheduler. The source code is not open source.
 
 ## Documentation
 
@@ -59,8 +59,6 @@ To view logs of a message, go to your application, then to messages, and then op
 New quick start experience for the Point In Time Scheduler.
 
 The quick start helps you to schedule your first message. Thanks to http://webhook.site you don't even need to set up your own endpoint.
-
-Give it a try at https://app.point-in-time-scheduler.com
 
 ### 06.01.2022
 
